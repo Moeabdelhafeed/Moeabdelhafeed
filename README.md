@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Vue+%2F+Nuxt+%2B+Laravel+specialist;Three.js+%2B+GSAP+motion+nerd;Arabic+%2F+RTL+i18n+by+default;Building+fast%2C+multilingual+web+apps." alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Nuxt+%2B+Laravel+%2B+Inertia.js;Vue+3+%26+motion+enthusiast;Building+modern+web+apps." alt="typing"/>
   </a>
 </p>
 
@@ -31,10 +31,8 @@
 
 ```yaml
 role:        Full-Stack Web Developer
-focus:       SaaS, e-commerce, 3D web experiences, Arabic/RTL platforms
-frontend:    Vue 3, Nuxt 4, TypeScript, Tailwind v4, shadcn, Three.js (TresJS), GSAP
-backend:     Laravel 12, Inertia.js, MySQL, Sanctum, Spatie Permissions, Pusher
-languages:   English, Arabic (RTL native)
+stack:       Nuxt + Laravel + Inertia.js with Vue
+focus:       Motion-driven UIs, smooth interactions, polished web apps
 location:    Amman, Jordan
 ```
 
@@ -43,12 +41,12 @@ location:    Amman, Jordan
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,threejs,laravel,php,mysql,redis,nodejs,vite,git,github,docker,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,php,tailwind,mysql,js,git,docker,figma" />
 </p>
 
-**Frontend** — Vue 3 · Nuxt 4 · TypeScript · Tailwind CSS v4 · shadcn-nuxt · Reka UI · Three.js / TresJS · GSAP · Motion-V · Lucide
-**Backend** — Laravel 12 · Inertia.js · MySQL · Redis · Sanctum · Spatie Permissions · Pusher · Firebase
-**Tooling** — Vite · ESLint · Prettier · Pest · Composer · pnpm · Docker
+**Frontend** — Vue 3 · Nuxt 4 · Tailwind CSS · GSAP · Motion-V
+**Backend** — Laravel · Inertia.js · MySQL
+**Tools** — Vite · Git · Docker
 
 ---
 
@@ -56,14 +54,14 @@ location:    Amman, Jordan
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **AKM** | Nuxt 4 · Three.js · TresJS Post-Processing | Interactive 3D product showcase with i18n (AR/EN) |
-| **Hayyak** | Nuxt 4 · Tailwind v4 · Motion-V | Multilingual marketing platform, RTL-first |
-| **Jaasu** | Nuxt 4 · JWT · Quill | Content platform with auth + rich editor |
-| **Amman Shopping Festival** | Nuxt 3 · GSAP · Lenis · Swiper | Event site with smooth scroll, carousels, Google Maps |
-| **Visit Amman** | Nuxt 3 · GSAP · i18n | Tourism site, multilingual, animated UX |
-| **BSA / Inertia Starter Kit** | Laravel · Inertia · Vue 3 · Echo · Pusher | Auth, roles, real-time broadcast, RTL |
-| **Al-Mujam** | Nuxt + Content · SQLite | Arabic dictionary, full-text search |
-| **Jet Shopper** | Nuxt 4 · Three.js · Color-mode | 3D e-commerce starter |
+| **Inertia Starter Kit** | Laravel · Inertia · Vue 3 | My own starter kit — auth, roles, real-time, ready to ship |
+| **AKM** | Nuxt 4 · GSAP | Animated product showcase |
+| **Hayyak** | Nuxt 4 · Motion-V | Marketing platform with smooth motion |
+| **Jaasu** | Nuxt 4 · Quill | Content platform with rich editor |
+| **Amman Shopping Festival** | Nuxt 3 · GSAP · Lenis | Event site, scroll animations, carousels |
+| **Visit Amman** | Nuxt 3 · GSAP | Tourism site with motion-driven UX |
+| **BSA** | Laravel · Inertia · Vue 3 | Real-time dashboard with broadcast |
+| **Al-Mujam** | Nuxt + Content | Arabic dictionary, full-text search |
 
 ---
 
@@ -110,20 +108,6 @@ location:    Amman, Jordan
 
 ---
 
-### Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="dev joke"/>
-</p>
-
-### Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=hidden" alt="quote"/>
-</p>
-
----
-
 ### Reach Me
 
 <p align="center">
@@ -137,5 +121,3 @@ location:    Amman, Jordan
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
-<p align="center"><sub>↑ Snake eat my contributions ·  Joke refresh on every visit ·  Built with too much ☕</sub></p>
