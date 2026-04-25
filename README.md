@@ -4,7 +4,9 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer</b> · Vue / Nuxt · Laravel · Three.js · Tailwind · i18n & RTL
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Vue+%2F+Nuxt+%2B+Laravel+specialist;Three.js+%2B+GSAP+motion+nerd;Arabic+%2F+RTL+i18n+by+default;Building+fast%2C+multilingual+web+apps." alt="typing"/>
+  </a>
 </p>
 
 <p align="center">
@@ -13,6 +15,12 @@
   </a>
   <a href="https://github.com/Moeabdelhafeed">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://mohammad-abdelhafeed.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/mohammadabdelhafeed">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Moeabdelhafeed&style=for-the-badge&color=0A66C2&label=Profile+Views"/>
 </p>
@@ -27,7 +35,7 @@ focus:       SaaS, e-commerce, 3D web experiences, Arabic/RTL platforms
 frontend:    Vue 3, Nuxt 4, TypeScript, Tailwind v4, shadcn, Three.js (TresJS), GSAP
 backend:     Laravel 12, Inertia.js, MySQL, Sanctum, Spatie Permissions, Pusher
 languages:   English, Arabic (RTL native)
-location:    Jordan
+location:    Amman, Jordan
 ```
 
 ---
@@ -82,6 +90,16 @@ location:    Jordan
 
 ---
 
+### Star History
+
+<p align="center">
+  <a href="https://star-history.com/#Moeabdelhafeed/auth-system&Moeabdelhafeed/smartroom&Moeabdelhafeed/mylinks&Date">
+    <img src="https://api.star-history.com/svg?repos=Moeabdelhafeed/auth-system,Moeabdelhafeed/smartroom,Moeabdelhafeed/mylinks&type=Date&theme=dark"/>
+  </a>
+</p>
+
+---
+
 ### Contribution Snake
 
 <picture>
@@ -90,8 +108,18 @@ location:    Jordan
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moeabdelhafeed/Moeabdelhafeed/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+---
+
+### Random Dev Joke
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moeabdelhafeed/Moeabdelhafeed/output/ocean.gif" alt="ocean snake"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="dev joke"/>
+</p>
+
+### Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=hidden" alt="quote"/>
 </p>
 
 ---
@@ -105,6 +133,9 @@ location:    Jordan
   <a href="mailto:dottechjo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://mohammad-abdelhafeed.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center"><i>Building fast, multilingual, design-driven web apps.</i></p>
+<p align="center"><sub>↑ Snake eat my contributions ·  Joke refresh on every visit ·  Built with too much ☕</sub></p>
